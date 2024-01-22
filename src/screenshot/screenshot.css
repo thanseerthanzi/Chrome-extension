@@ -1,0 +1,170 @@
+.bg{
+    width: 379px;
+    height: 599px;
+    background-color: #222222cc;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+    flex-shrink: 0;
+ 
+}
+
+.box {
+   
+    background: linear-gradient(180deg, rgb(128, 40, 154) 0%, rgb(226, 65, 105) 49.68%, rgb(255, 121.52, 72.25) 100%);
+    border-radius: 7.63px;
+    height: 41px;
+    left: 109px;
+    position: fixed;
+    top: 34px;
+    width: 130px;
+
+  }
+  
+    .text-wrapper {
+      color: #ffffff;
+      font-family: "Zen Maru Gothic-Bold", Helvetica;
+      font-size: 18.6px;
+      letter-spacing: 0;
+      line-height: 36.1px;
+      white-space: nowrap;
+      width: 131px;
+      height: 41px;
+      text-align: center;
+      padding-top: 3px;
+    }    
+
+.centerimg {
+      display: block;
+      margin-left: -29px;
+      margin-right: auto;
+      margin-top: 45px;
+      width: 157%;
+      
+}
+ 
+.upbtn {
+  border-radius: 6.771px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+
+    height: 49px;
+    width: 242px;
+    margin-left: -52px;
+    margin-top: 32px; 
+}
+.upname{
+  height: 17px;
+  width: 226px;
+  padding-top: 8px;
+  font-weight: 600;
+}
+
+.submit-btn{
+  margin-top: 9px;
+    margin-left: 45px;
+    background: linear-gradient(180deg, rgb(128, 40, 154) 0%, rgb(226, 65, 105) 49.68%, rgb(255, 121.52, 72.25) 100%);
+    border-radius: 15.63px;
+    height: 36px;
+    width: 46px;
+    border: 0px;
+}
+
+.body {  
+    background-color: #FAFAFA  
+}  
+.container {  
+    margin-top: 200px  
+}  
+.m {  
+    border-top-right-radius: 32px !important;  
+    border-bottom-right-radius: 32px !important;  
+    background-color: #fff  
+}  
+.g {  
+    border-top-left-radius: 32px !important;  
+    border-bottom-left-radius: 32px !important;  
+    background-color: #fff  
+}  
+.input-group-prepend {  
+    margin-right: -2px !important  
+}  
+.input-group-append {  
+    margin-left: -2px !important  
+}  
+h2 {  
+    font-family: 'Indie Flower', cursive;  
+    font-size: 32px;  
+  color: #03A9F4;  
+  font-weight: bold;  
+}  
+.form-control:focus {  
+    color: #495057;  
+    background-color: #fff;  
+    border-color: #ced4da;  
+    outline: 0;  
+    box-shadow: 0 0 0 0 !important  
+}  
+.form-control {  
+    border-right: 0 !important;  
+    border-left: 0 !important  
+}
+
+.textp{
+  color: #fff;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 27px;
+  margin-top: 9px;
+  margin-left: -88px;
+  width: 250%;
+}
+.upload-container{
+  width: 206px;
+  height: 110px;
+}
+
+.bigb{
+  width: 148px;
+  height: 139px;
+  border-radius: 5px;
+  background: linear-gradient(90deg, rgb(128, 40, 154) 0%, rgb(226, 65, 105) 49.68%, rgb(255, 121.52, 72.25) 100%);
+
+}
+
+.bgbox{
+  width: 127px;
+  height: 124px;
+
+  border-radius: 5px;
+  background: linear-gradient(90deg, rgb(128, 40, 154) 0%, rgb(226, 65, 105) 49.68%, rgb(255, 121.52, 72.25) 100%);
+  border: 0px;
+  
+
+}
+ .main{
+  display: inline-flex;
+  align-items: baseline;
+  justify-content: space-evenly;
+  align-content: center;
+  flex-wrap: nowrap;
+  margin-left: -132px;
+    margin-top: 27px;
+}
+
+.frame{
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 14px;
+  position: relative;
+}
+
+.inimg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+  padding-top: 29px;
+}

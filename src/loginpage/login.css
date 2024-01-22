@@ -1,0 +1,48 @@
+/* login form page css class */
+
+
+
+.loginbtn1{
+    
+    width: 100%;
+    background: var(--Gradient, linear-gradient(90deg, #80289A 0.11%, #E24169 49.61%, #FF7A48 99.75%));
+
+}
+
+.align{
+    text-align: center;
+}
+
+.flex{
+    margin-right: 0px;
+    margin-left: 17px;
+    padding-top: 63px;
+}
+
+
+.bg1{
+    width: 371px;
+    height: 606px;
+    background-color: #ddddddcc;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+ 
+}
+
+.img1{
+    width: 134px;
+    height: 85px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.clickcloth1{
+    margin-left: 18px;
+    width: 97px;
+    height: 64px;
+   
+}
+

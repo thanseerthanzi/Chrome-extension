@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Outfit Finder",
+  "version": "1.0",
+  "description": "Users can take a screenshot of any clothes seen online, and this extension will use an API to fetch matching clothes with their store link for them to buy.",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  
+  "background": {
+    "service_worker": "background.js"
+},
+
+  "action": {
+    "default_icon": {
+      "16": "favicon.ico",
+      "48": "favicon.ico",
+      "128": "favicon.ico"
+    }
+  },
+
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}

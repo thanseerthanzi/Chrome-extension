@@ -1,0 +1,100 @@
+
+#background{
+    
+    height: 599px;
+    margin: -8px;
+    width: 371px;
+}
+
+.bg{
+    background-color: #222c;
+    height: 599px;
+    width: 371px;
+}
+.iconic{
+  
+    margin-left: auto;
+    margin-right: auto;
+
+    color: #FFF;
+    height: 85px;
+    width: 379px;
+    font-family: "Racing sans One-regular",Helvetica;
+    font-size: 29.6px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 45.1px;
+
+}
+.iconicimg{
+    margin-left: 41%;
+    width: 17%;
+    padding-top: 63px;
+}
+
+.clickcloth{
+    margin-left: 16px;
+    width: 84px;
+    height: 51px;
+   
+}
+
+.women{
+    margin-left: auto;
+    margin-right: auto;
+}
+.womenimg{
+    margin-left: 19%;
+    width: 63%;
+    margin-top: 57px;
+    
+}
+
+.textdis{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    line-height: 18px;
+    font-weight: 400;
+ 
+    letter-spacing: 0.15px;
+    }
+
+
+.loginbtn2{
+    margin-left: 27%;
+    margin-right: auto;
+    width: 197px;
+    height: 40px;
+    margin-top: 26px;
+    border-radius: 7px;
+    background: var(--Gradient, linear-gradient(90deg, #80289A 0.11%, #E24169 49.61%, #FF7A48 99.75%));
+}
+.loginbtn2:hover{
+    opacity: 0.5;
+}
+.center{
+   
+    margin-right: auto;
+}
+
+.textlog{
+    
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0.21px;
+    font-weight: bold;
+    border: 0px;
+
+}
+
